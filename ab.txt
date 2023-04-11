@@ -1,2 +1,5 @@
-ffffffffffffqqq
-second........q
+<<<<<<< HEAD
+00000000000000nd........q
+=======
+qqqq
+>>>>>>> parent of 03f6e6f (iiii)
